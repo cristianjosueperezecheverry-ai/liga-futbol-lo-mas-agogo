@@ -1,0 +1,10 @@
+# Configuración inicial de la liga
+nombre=La Liga
+pts_victoria=3
+pts_empate=1
+pts_derrota=0
+
+equipo=Real Madrid
+equipo=Barcelona
+equipo=Atletico de Madrid
+equipo=Sevilla FC
