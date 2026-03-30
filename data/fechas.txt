@@ -1,0 +1,4 @@
+JORNADA=1
+FECHA=30/03/2026
+Barcelona,2,Real Madrid,1
+FIN_JORNADA
